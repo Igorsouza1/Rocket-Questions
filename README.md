@@ -1,7 +1,7 @@
 # RocketQuestions
 
 ## Projeto
-Uma aplicação de intereação com perguntas e resposta onde é possível criar uma sala para serem feitas perguntas anônimas, com o dono da sala podendo exluir e marcar perguntas como ldias.
+  Aplicação feita para interagir com usuarios através de perguntas e repostas. É possível criar a sala e acessar a mesma através de um código gerado(ex: 4567) quando usuários acessam o numéro fornecido é possivel fazer perguntas enquanto o dono da sala pode responder, marcar as perguntas como lida e excluir perguntas.
 
 ## Tecnologias
 - HTML
