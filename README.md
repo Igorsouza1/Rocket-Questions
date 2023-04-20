@@ -14,6 +14,7 @@ Aplicação feita para interagir com usuários através de perguntas e respostas
 - EJS
 - Express
 - SQLite
+- Node.js
 
 ## 📷 Imagens
 
