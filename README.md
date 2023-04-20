@@ -1,6 +1,6 @@
 # RocketQuestions
 
-![RocketQuestions](https://user-images.githubusercontent.com/71149968/124654191-40cdde80-de6c-11eb-94d6-58bd6413fd7c.png)
+![Design sem nome](https://user-images.githubusercontent.com/71149968/233378254-d183fde9-acf5-43c9-8080-17388da7f943.gif)
 
 ## 🚀 Projeto
 
